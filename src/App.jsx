@@ -2,6 +2,8 @@ import React from "react";
 
 export default function App() {
   return (
-    <div className="App"></div>
+    <div className="App">
+      Hello! This is periodic-table! 
+    </div>
   );
 }
