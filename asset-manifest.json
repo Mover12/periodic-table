@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/periodic-table/static/js/main.f289f21b.js",
+    "index.html": "/periodic-table/index.html",
+    "main.f289f21b.js.map": "/periodic-table/static/js/main.f289f21b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f289f21b.js"
+  ]
+}
